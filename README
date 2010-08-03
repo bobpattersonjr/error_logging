@@ -1,0 +1,4 @@
+Plugin Name: Error Logging Plugin
+Description: Log errors to a separate database in mu in order to determine issues that you put hooks in for in the other areas where you are seeing issues
+Author: Bob Patterson
+Version: 0.3
